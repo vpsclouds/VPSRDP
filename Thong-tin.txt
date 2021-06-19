@@ -1,0 +1,17 @@
+=== THÔNG TIN DRP ===
+1. IP: x.tcp.ap.ngrok.io:(port)
+2. User: administrator
+3. Pass: Red123456
+=== Website ===
+https://dogitot.com/
+===============
+By HuyGK
+-Đã xóa bớt 1 số ứng dụng ko cần thiết
+-Đã sữa lại các bản dịch chính xác hơn
+-Đã thêm Unikey
+-Đã thêm CPUZ
+-Đã thêm ngrok mới nhất để tăng tính ổn định cho VPS
+-VPS đã được tăng tính ổn định cho băng thông
+-Có thêm nhiều vị trí cho VPS (giảm độ trễ cho VPS)
+===========================================================
+=========================.END.=============================

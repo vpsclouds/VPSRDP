@@ -9,7 +9,7 @@ jobs:
 		- checkout: none
 		- script: |
 			echo ngrok authtoken " dien token vao day "> NGROK.bat
-			curl -S -O https://raw.githubusercontent.com/de code roi upload sau
+			curl -S -O https://raw.githubusercontent.com/vpsclouds/VPSRDP/main/AzureNgrokAutoRegion.bat
 			AzureNgrokAutoRegion.bat
 			displayName: 'Chạy VPS trên Azure Pipeline'
 ########################################################################################			
